@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437671563881",
+    "project_id": "profit-mazimazer",
+    "storage_bucket": "profit-mazimazer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437671563881:android:5f9e901025811aa059c8f8",
+        "android_client_info": {
+          "package_name": "com.prof.profitmaximazerreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437671563881-l15e0pulktni86bmq9e8jf0581p4o8qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN2pDqqRn9sNsdF61tRiBdvE3ctbU8Ab0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437671563881-l15e0pulktni86bmq9e8jf0581p4o8qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
